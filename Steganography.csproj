@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Crypto.cs" />
+    <Compile Include="Crypto3DES.cs" />
+    <Compile Include="DES.cs" />
     <Compile Include="Steganography.cs">
       <SubType>Form</SubType>
     </Compile>

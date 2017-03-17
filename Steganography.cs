@@ -154,5 +154,15 @@ namespace Steganography
         {
 
         }
+
+        private void aes_time_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Steganography_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
